@@ -9,4 +9,4 @@ Vivian Zhou
 
 ## Project 1
 
-1. [Blumenstock response](http://https://github.com/Vivian-Zhou-1027/workshop1/blob/master/blumenstock.md)
+1. [Blumenstock response](https://github.com/Vivian-Zhou-1027/workshop1/blob/master/blumenstock.md)
