@@ -9,5 +9,5 @@ Vivian Zhou
 
 ## Response to Readings
 
-1. [Blumenstock response](https://github.com/Vivian-Zhou-1027/workshop1/blob/master/blumenstock.md)
-2. [Jahan/ Rosling question](https://github.com/Vivian-Zhou-1027/workshop1/blob/master/Jahan&Rosling.md)
+1. [Blumenstock Response](https://github.com/Vivian-Zhou-1027/workshop1/blob/master/blumenstock.md)
+2. [Lloyd Response](https://github.com/Vivian-Zhou-1027/workshop1/blob/master/Lloyd.md)
