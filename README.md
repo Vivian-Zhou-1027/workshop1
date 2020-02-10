@@ -11,4 +11,4 @@ Vivian Zhou
 
 1. [Blumenstock response](https://github.com/Vivian-Zhou-1027/workshop1/blob/master/blumenstock.md)
 2. [Challenge Question](https://github.com/Vivian-Zhou-1027/workshop1/blob/master/Challenge_Question.png)
-3. [Jahan/ Rosling question](https://github.com/Vivian-Zhou-1027/workshop1/blob/master/High%20resolution%20global%20gridded%20data%20for%20use%20in%20population%20studies.md
+3. [Jahan/ Rosling question](https://github.com/Vivian-Zhou-1027/workshop1/blob/master/Jahan&Rosling.md)
