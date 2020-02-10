@@ -5,7 +5,6 @@ Vivian Zhou
 ## Workshop
 
 1. [Challenge Question](https://github.com/Vivian-Zhou-1027/workshop1/blob/master/Challenge_Question.png)
-Line Plot
 
 
 ## Response to Readings
