@@ -1,7 +1,7 @@
 # Project 1:  Haiti
 
 ## Administrative Subdivisions of Haiti
-![Administrative Subdivisions of Haiti](https://github.com/Vivian-Zhou-1027/workshop1/blob/master/hti.png "Administrative Subdivisions of Haiti")
+![Administrative Subdivisions of Haiti](https://github.com/Vivian-Zhou-1027/workshop1/blob/master/hti.png)
 This is a map of Haiti with administrative level 1 and 2 labeled. I made the color of the map red with blue labels of names of administrative subdivisions because the flag of Haiti is colored red and blue.
 ## Population of Haiti
 ![Population of Haiti](https://github.com/Vivian-Zhou-1027/workshop1/blob/master/hti_pop19.png)
