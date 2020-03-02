@@ -1,5 +1,7 @@
 ## Stevens et al. Response
 
+Vivian Zhou March 2nd
+
 Q1. In the readings for Tuesday and today, the authors use a technique to produce a high resolution description of human populations across the globe. What is the name of the technique and describe  in general and basc terms how it works.
 
 In the article, the researchers describe a dasymetric redistribution approach based on the populaton counts from census data  and a new technique called "Random Forest". This flexible modeling framework helps to incorporate the remotely sensed and geospatial data from multiple scales into the dasymetric model. "Random Forest" is then used to generate a gridded prediction of population density. We can show the dasymetric redistribution of the census counts at a country level by using the prediction layer.
