@@ -1,4 +1,4 @@
-## Stevens et al. Response
+## Stevens et al Response
 
 Vivian Zhou March 2nd
 
