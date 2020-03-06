@@ -8,6 +8,7 @@ Vivian Zhou
 
 ## Projects
 1. [Project 1: Haiti](project1.md)
+2. [Project 2: Haiti](project2.md)
 
 ## Response to Readings
 
