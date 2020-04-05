@@ -36,7 +36,7 @@ This plot shows the difference between the population predicted by the model and
 ### Population and Differences Maps of Port-de-Paix, Haiti
 ![Population Map of Port-de-Paix](PortdePaix_pop.png)
 
-This map shows the population of Port-de-Paix in 2015. Port-de-Paix is near the ocean and located in the north of Haiti.
+This map above shows the population of Port-de-Paix in 2015. Port-de-Paix is near the ocean and located in the north of Haiti.
 
 ![Difference Map of Port-de-Paix](PortdePaix_diff_mapview.png)
 
