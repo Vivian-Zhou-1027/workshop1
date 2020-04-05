@@ -17,7 +17,10 @@ R-squared:  0.9342
 
 ### Population and Differences Maps of Haiti
 ![Population Map of Haiti](haiti_pop.png)
-This map shows the population of Haiti in 2015.
+
+This map above shows the population of Haiti in 2015.
+
 ![Difference Map of Haiti](haiti_diff.png)
-This plot shows the difference between the population predicted by the model and the actual population in 2015 for Haiti. The population of the reddish part is underestimated.
+
+This plot above shows the difference between the population predicted by the model and the actual population in 2015 for Haiti. The population of the reddish part is underestimated.
 
