@@ -24,3 +24,14 @@ This map above shows the population of Haiti in 2015.
 
 This plot above shows the difference between the population predicted by the model and the actual population in 2015 for Haiti. The population of the reddish part is underestimated.
 
+### Population and Differences Maps of Port-au-Prince, Haiti
+![Population Map of Port-au-Prince](PortauPrince3D.png)
+
+![Difference Map of Port-au-Prince](PortauPrince_diff.png)
+
+### Population and Differences Maps of Port-de-Paix, Haiti
+![Population Map of Port-de-Paix](PortdePaix_pop.png)
+
+![Difference Map of Port-de-Paix](PortdePaix_diff_mapview.png)
+
+
