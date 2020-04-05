@@ -22,16 +22,24 @@ This map above shows the population of Haiti in 2015.
 
 ![Difference Map of Haiti](haiti_diff.png)
 
-This plot above shows the difference between the population predicted by the model and the actual population in 2015 for Haiti. The population of the reddish part is underestimated.
+This plot above shows the difference between the population predicted by the model and the actual population in 2015 for Haiti. The population of the reddish part is underpredicted.
 
 ### Population and Differences Maps of Port-au-Prince, Haiti
 ![Population Map of Port-au-Prince](PortauPrince3D.png)
 
+Here is the population 3D plot for Port-au-Prince, the capital city of Haiti.
+
 ![Difference Map of Port-au-Prince](PortauPrince_diff.png)
+
+This plot shows the difference between the population predicted by the model and the actual population in 2015 for Port-au-Prince. The population of the reddish part is underpredicted.
 
 ### Population and Differences Maps of Port-de-Paix, Haiti
 ![Population Map of Port-de-Paix](PortdePaix_pop.png)
 
+This map shows the population of Port-de-Paix in 2015. Port-de-Paix is near the ocean and located in the north of Haiti.
+
 ![Difference Map of Port-de-Paix](PortdePaix_diff_mapview.png)
+
+Here is the mapview for Port-de-Paix. It shows us the difference between the population predicted by the model and the actual population in 2015 for Port-de-Paix. The darker area is where the city is located in and its population is underpredicted.
 
 
