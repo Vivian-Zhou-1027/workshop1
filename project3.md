@@ -1,6 +1,6 @@
 # Project 3: Haiti
 
-## Part 1: Defacto description of human settlements and urban areas
+## Part 1: De facto description of human settlements and urban areas
 ![Urbanized Areas throughout Jacmel, Haiti](Urbanized%20Areas%20throughout%20Jacmel%2C%20Haiti.png)
 
 ## Part 2: Adding transportation facilities & health care services
