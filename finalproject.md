@@ -9,6 +9,7 @@ This graph shows the population, density, and population share of Haiti. The adm
 ![Haiti in 2019 Graph](Haiti.png)
 
 The image below is a combined plot that shows the histogram of the population log of Haiti ADM2 and the line plot of the population density.
+
 ![Population Log combined with Density](density_log(pop19).png)
 
 The image below shows the regression model using water, dst011, dst040, dst130, dst140, dst150, dst160, dst190, dst200, topo, slope, and ntl as predictors. The model predicts the population accurately as it's R-squared value is 0.9342.
