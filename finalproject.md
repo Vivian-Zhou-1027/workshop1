@@ -16,11 +16,15 @@ The image below shows the regression model using water, dst011, dst040, dst130, 
 ![Residuals for Model Using All Variables](allvariables.png)
 
 This plot shows the difference between the population predicted by the model and the actual population in 2015 for Port-au-Prince. The population of the reddish part is underpredicted.
+
 ![Difference Map of Port-au-Prince](PortauPrince_diff.png)
 
 Here is the population 3D plot for Port-au-Prince.
 ![Population Map of Port-au-Prince](PortauPrince3D.png)
 
 ## Human Settlements, Roadways and Health Care Facilities
+For this part, I focused on two adm2s, Jacmel and Bainet. The orange lines are the road networks. Since Haiti has a large number of unclassified road net works, the plot shows a lot of disconnected tracks. The red points represent hospitals and the yellow ones represent other health care facilities. The locations of these facilities are mostly consistent with the positions of urban areas.
 ![Access to Health Care Serivces throughout Jacmel and Bainet](Access%20to%20Health%20Care%20Serivces%20throughout%20Jacmel%20and%20Bainet.png)
+Bainet and Jacmel are located on the southern part of the country. The largest urban area in these two ADM2s is Jacmel city. It has a population of about 80,000 and the population density of Jacmel city is more than 2,000. The whole area of Bainet and Jacmel has 60 hospitals and one-fifth of those hospitals are located in Jacmel city. Though the road network is not that perfect, almost all the hospitals have major road networks around them. The urban area is effected by the topography because the majority of these areas are mountains and Jacmel city is based on a rather flat topography. It is also next to the Caribbean sea.
 ![JB](JB.png)
+
