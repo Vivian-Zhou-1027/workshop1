@@ -10,6 +10,7 @@ Vivian Zhou
 1. [Project 1: Haiti](project1.md)
 2. [Project 2: Haiti](project2.md)
 3. [Project 3: Haiti](project3.md)
+4. [Final Project: Haiti](finalproject.md)
 
 ## Response to Readings
 
